@@ -1,7 +1,7 @@
 ## Sistemas Digitales
 
 
-## Información académica
+## Información académica:
 
 - **Institución:** Universidad Nacional de Loja 
 - **Facultad:** FEIRNNR - Carrera de Computación.
@@ -9,7 +9,7 @@
 - **Ciclo:** 5.
 - **Docente:** Ing. Luis Darío Sinche C.
 
-## Integrantes
+## Integrantes:
 
 - Bryan Troya
 - Anthony Yaguana
